@@ -55,6 +55,22 @@ Highlights:
 
 ---
 
+## 🧩 A-Maze-ing
+
+**Python • Algorithms • OOP**
+
+A maze generation and solving application developed during the 42 Python curriculum.
+
+Highlights:
+
+- Object-oriented architecture
+- Multiple maze generation algorithms
+- Maze solving algorithms
+- Clean and modular code
+- Type-safe implementation using mypy
+
+---
+
 ## ⚙️ 42 Common Core Projects
 
 ### C
