@@ -4,133 +4,167 @@
   <img src="https://img.shields.io/badge/42%20Firenze-Software%20Engineering-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/Python-Development-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-Development-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## About Me
+# About Me
 
-I'm a software engineering student at 42 Firenze, passionate about understanding how software works from low-level systems to user-facing applications.
+I'm a Software Engineering student at **42 Firenze** based in **Florence, Italy**.
 
-My main focus is currently:
+I enjoy understanding how software works from the inside out—from low-level programming and memory management to designing maintainable software architectures.
 
-- C Programming
-- Python Development
-- Algorithms & Data Structures
-- Software Architecture
-- Problem Solving
-
-Through the 42 curriculum, I have built projects ranging from system-level programming in C to object-oriented and algorithmic applications in Python. I enjoy learning by building real projects and continuously improving my technical foundations.
+I learn by building real projects and solving challenging problems. My current interests are backend development, system programming, algorithms, and writing clean, reliable software.
 
 ---
 
-## Current Focus
+# Featured Projects
 
-- C programming and memory management
-- Python software development
-- Algorithms & data structures
-- Debugging and problem-solving
-- Linux development environment
-- Clean and maintainable code
-- Software architecture fundamentals
+## 🤖 Automated Trading Bot
+
+**Python • SQLite • Docker • VPS**
+
+A safety-first automated trading bot designed to execute trades while remaining restart-safe and fully observable.
+
+Highlights:
+
+- Risk management
+- Persistent trade journal
+- Live monitoring dashboard
+- Configuration system
+- Safe execution pipeline
+- Demo trading environment
+- Object-oriented architecture
 
 ---
 
-## 42 Projects
+## 🚁 Drone Routing System
 
-### C Projects
+**Python • Graph Algorithms • OOP**
 
-- Libft — Recreation of essential C standard library functions
-- ft_printf — Custom implementation of the printf function
-- get_next_line — Line-by-line file reader in C
-- Born2beroot — Linux system administration and virtualization
-- push_swap — Sorting algorithms and optimization project
+A graph-based routing system that computes paths for autonomous drones while respecting movement constraints and capacity limits.
 
-### Python Projects
+Highlights:
+
+- Graph parsing
+- Object-oriented design
+- Path-finding algorithms
+- Type-safe Python
+- Clean architecture
+
+---
+
+## ⚙️ 42 Common Core Projects
+
+### C
+
+- Libft
+- ft_printf
+- get_next_line
+- Born2beroot
+- push_swap
+
+These projects strengthened my understanding of:
+
+- Memory management
+- Pointers
+- Algorithms
+- Data structures
+- Linux
+- Debugging
+- System programming
+
+---
+
+## 🐍 Python Projects
+
+Throughout the Python modules at 42, I developed applications focused on:
 
 - Object-Oriented Programming
-- Data Processing Systems
-- Custom Exception Frameworks
-- File Management Utilities
-- Package Development
-- Maze Generator & Solver
-- Type-safe Python development with mypy
-
-### What These Projects Taught Me
-
-- Algorithmic thinking
-- Memory management
-- Data structures
-- Object-oriented design
-- Debugging techniques
-- System-level programming
-- Software architecture
-- Code organization and modularity
-- Working under strict coding standards
+- Package development
+- Data processing
+- File management
+- Exception handling
+- Maze generation & solving
+- Type-safe development using mypy
+- Clean software architecture
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Front-End
+## Languages
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-## Currently Learning
+## Web
 
-- Advanced C programming
-- Python software engineering
-- Algorithms and graph theory
-- System programming
-- Software architecture
-- Design patterns
-- Low-level programming concepts
+<p>
+<img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+</p>
 
 ---
 
-## Goals for 2026
+## Tools
 
-- Complete the 42 Common Core
-- Strengthen low-level programming skills
-- Build a professional software engineering portfolio
-- Contribute to open-source projects
-- Start working as a software developer
-- Continue learning modern software development practices
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-## Connect With Me
+# What I'm Learning
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mahdi-sharei-2b2575235/
-- 🧑‍💻 GitHub: https://github.com/mahdisharei
-- 📍 Florence, Italy
+- Advanced C Programming
+- Backend Development with Python
+- Algorithms & Data Structures
+- Graph Theory
+- Software Architecture
+- Design Patterns
+- Linux System Programming
+
+---
+
+# What I Value
+
+- Clean code
+- Readable architecture
+- Type safety
+- Continuous learning
+- Problem solving
+- Building real-world software
+
+---
+
+# Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/mahdi-sharei-2b2575235/
+
+🧑‍💻 GitHub  
+https://github.com/mahdisharei
+
+📍 Florence, Italy
+
+📧 mahdisharei.95@gmail.com
 
 ---
 
 <p align="center">
-  <b>Learning by doing — one project at a time.</b> 🚀
-</p
+
+<b>Learning by building. Improving every day.</b> 🚀
+
+</p>
